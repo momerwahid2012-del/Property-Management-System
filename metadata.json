@@ -1,0 +1,5 @@
+{
+  "name": "Property Management System",
+  "description": "A structured management system for properties, units, tenants, payments, and expenses, replacing WhatsApp-based reporting with a secure, logged, and validated application.",
+  "requestFramePermissions": []
+}
